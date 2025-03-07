@@ -20,6 +20,15 @@ Daftar Isi
 8.	Conclusion
 9.	Recommendation
 
+**Tools**
+  Berikut ini tools yang digunakan.
+  - Python
+  - Pandas
+  - XGBoost
+  - Streamlit
+  - Pickle (untuk menyimpan dan memuat model)
+  - Tableau (untuk dashboard)
+
 **BUSINESS PROBLEM UNDERSTANDING**
 1.	Context
 - E-Commerce atau perdagangan elektronik adalah proses pembelian dan penjualan barang atau jasa melalui media elektronik, khususnya internet. Dalam e-commerce, transaksi dilakukan secara online tanpa interaksi fisik antara penjual dan pembeli. Keberadaan platform digital mempermudah perusahaan dalam menjangkau pasar yang lebih luas dengan biaya yang lebih efisien. Namun, dengan pesatnya pertumbuhan e-commerce, persaingan semakin ketat, sehingga perusahaan menghadapi tantangan dalam meningkatkan serta mempertahankan pelanggan.
@@ -193,14 +202,6 @@ Selain strategi retensi, model yang dikembangkan juga dapat mendukung pengambila
 
     - Melalui seluruh proses yang telah dilakukan, penerapan *machine learning* dalam memprediksi kemungkinan *churn* dan mengoptimalkan biaya retensi pelanggan memungkinkan perusahaan menghemat hingga 25.8%. Dengan jumlah pelanggan e-commerce yang bisa mencapai jutaan, potensi penghematan ini dapat semakin meningkat jika karakteristik pelanggan masih sesuai dengan cakupan data yang digunakan dalam pemodelan. Hal ini memungkinkan perusahaan untuk mengalokasikan biaya retensi dan akuisisi pelanggan secara lebih efisien serta meminimalkan potensi kerugian.
 
-  **Tools**
-  Berikut ini tools yang digunakan.
-  - Python
-  - Pandas
-  - XGBoost
-  - Streamlit
-  - Pickle (untuk menyimpan dan memuat model)
-  - Tableau (untuk dashboard)
 
 **Streamlit:**
 
