@@ -2,7 +2,7 @@
 
 # E-Commerce-Churn-Analysis
 Oleh:
--  Azhar Maulana
+- Muhammad Azhar Maulana
 - Eki Nakia Utami
 - Naila Firdusi Putri Fadilah
 
@@ -25,7 +25,7 @@ Daftar Isi
   - Python
   - Pandas
   - XGBoost
-  - Streamlit https://e-commerce-customer-churn-prediction.streamlit.app/ (dataset bisa dilihat di folder data set atau streamlit dengan nama file: E Commerce dataset.csv)
+  - Streamlit https://e-commerce-customer-churn-prediction.streamlit.app/ (dataset bisa dilihat di folder data set atau streamlit dengan nama file: E Commerce Dataset.csv)
   - Pickle (untuk menyimpan dan memuat model)
   - Tableau (untuk dashboard) https://public.tableau.com/views/FINALPROJECT-EPSILON-ECOMMERCECHURN/MainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
