@@ -193,3 +193,12 @@ Selain strategi retensi, model yang dikembangkan juga dapat mendukung pengambila
 
     - Melalui seluruh proses yang telah dilakukan, penerapan *machine learning* dalam memprediksi kemungkinan *churn* dan mengoptimalkan biaya retensi pelanggan memungkinkan perusahaan menghemat hingga 25.8%. Dengan jumlah pelanggan e-commerce yang bisa mencapai jutaan, potensi penghematan ini dapat semakin meningkat jika karakteristik pelanggan masih sesuai dengan cakupan data yang digunakan dalam pemodelan. Hal ini memungkinkan perusahaan untuk mengalokasikan biaya retensi dan akuisisi pelanggan secara lebih efisien serta meminimalkan potensi kerugian.
 
+  **Tools**
+  Berikut ini tools yang digunakan.
+  - Python
+  - Pandas
+  - XGBoost
+  - Streamlit
+  - Pickle (untuk menyimpan dan memuat model)
+  - Tableau (untuk dashboard)
+
