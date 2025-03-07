@@ -27,7 +27,7 @@ Daftar Isi
   - XGBoost
   - Streamlit
   - Pickle (untuk menyimpan dan memuat model)
-  - Tableau (untuk dashboard)
+  - Tableau (untuk dashboard) https://public.tableau.com/views/FINALPROJECT-EPSILON-ECOMMERCECHURN/MainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **BUSINESS PROBLEM UNDERSTANDING**
 1.	Context
