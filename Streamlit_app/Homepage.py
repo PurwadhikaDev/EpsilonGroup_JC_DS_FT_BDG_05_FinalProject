@@ -41,7 +41,7 @@ st.markdown("""
         <b>Epsilon Team Members:</b>
         <ul>
             <li>Eki Nakia Utami</li>
-            <li>Naila Firdausi</li>
+            <li>Naila Firdusi</li>
             <li>Azhar Maulana</li>
         </ul>
     </div>
