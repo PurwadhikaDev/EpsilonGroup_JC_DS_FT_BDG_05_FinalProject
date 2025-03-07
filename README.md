@@ -202,3 +202,7 @@ Selain strategi retensi, model yang dikembangkan juga dapat mendukung pengambila
   - Pickle (untuk menyimpan dan memuat model)
   - Tableau (untuk dashboard)
 
+**Streamlit:**
+
+Dalam konteks e-commerce, memahami perilaku konsumen dan memprediksi kemungkinan churn merupakan langkah penting untuk meningkatkan retensi. Dengan menggunakan Streamlit, penyusun membuat aplikasi sederhana namun cukup efektif, yang memungkinkan user untuk melakukan prediksi churn untuk satu konsumen dengan memasukkan data secara manual. Selain itu, aplikasi ini juga mendukung pengunggahan file CSV, sehingga user dapat menganalisis data churn dari banyak konsumen sekaligus. Dengan demikian, streamlit ini dapat menjadi alat yang berguna untuk membantu perusahaan dalam merumuskan strategi pencegahan churn dengan lebih baik. Streamlit dapat diakses pada **[Streamlit](https://e-commerce-customer-churn-prediction.streamlit.app/)**.
+
