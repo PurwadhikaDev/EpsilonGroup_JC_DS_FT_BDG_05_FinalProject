@@ -83,7 +83,7 @@ Selain strategi retensi, model yang dikembangkan juga dapat mendukung pengambila
 
   **Data Understanding**
   - Data Set
-    - Data Source : https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
+    - Data Source : **[Streamlit_app](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)** 
       - Dataset tidak seimbang
       - Setiap baris data mempresentasikan informasi customer E-commerce
    - Secara umum kita bisa melihat data:
