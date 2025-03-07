@@ -25,7 +25,7 @@ Daftar Isi
   - Python
   - Pandas
   - XGBoost
-  - Streamlit 
+  - Streamlit https://e-commerce-customer-churn-prediction.streamlit.app/
   - Pickle (untuk menyimpan dan memuat model)
   - Tableau (untuk dashboard) https://public.tableau.com/views/FINALPROJECT-EPSILON-ECOMMERCECHURN/MainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
