@@ -171,12 +171,12 @@ Selain strategi retensi, model yang dikembangkan juga dapat mendukung pengambila
     Pelatihan Model Terbaik: Model optimal dari tuning dilatih ulang.
     - Evaluasi Model: F2-score, Classification Report, Precision-Recall Curve, Learning Curve.
 
- - Hasil
-   - Berdasarkan hasil model benchmarking dan hyperparameter tuning, model **XGBoost Classification** menunjukkan performa yang baik dalam memprediksi *customer churn* di sebuah e-commerce, dengan nilai F2 Score sebelum tuning 0.90 dan **F2 Score seteleh tuning 0.92**.
+  - Hasil
+    - Berdasarkan hasil model benchmarking dan hyperparameter tuning, model **XGBoost Classification** menunjukkan performa yang baik dalam memprediksi *customer churn* di sebuah e-commerce, dengan nilai F2 Score sebelum tuning 0.90 dan **F2 Score seteleh tuning 0.92**.
    Berikut adalah perbandingan biaya yang dikeluarkan perusahaan untuk menangani customer churn:  
-   - **Tanpa Prediksi Machine Learning**: $54,600  
-   - **Dengan Prediksi Machine Learning**: $40,490  
-   - Dengan menggunakan prediksi machine learning untuk mengidentifikasi pelanggan yang berisiko churn dan mengarahkan strategi retensi, perusahaan dapat menghemat sekitar **$14,110**, atau **25.8%** dibandingkan dengan tidak menggunakan prediksi sama sekali.  
+    - **Tanpa Prediksi Machine Learning**: $54,600  
+    - **Dengan Prediksi Machine Learning**: $40,490  
+    - Dengan menggunakan prediksi machine learning untuk mengidentifikasi pelanggan yang berisiko churn dan mengarahkan strategi retensi, perusahaan dapat menghemat sekitar **$14,110**, atau **25.8%** dibandingkan dengan tidak menggunakan prediksi sama sekali.  
 
 **KESIMPULAN DAN REKOMENDASI**
 - Hasil eksperimen model ditujukan untuk memprediksi apakah seorang *customer* akan melakukan churn atau tidak berdasarkan dari pola-pola yang ada dalam data, dengan rincian model sebagai berikut:
